@@ -15,3 +15,5 @@ Pegasus_training_data_medium.csv contains terms and conditions scraped by Terms_
 Pretraining_Pegasus contains a script for domain-adaptive pre-training of Pegasus using data prepared by Pegasus_masking.ipynb.
 
 Fine_Tuning.ipynb contains a script for fine-tuning transformers for abstractive summarisation with HuggingFace.
+
+train_tosdr_prepared.csv contains terms and conditions clauses paired with human written summaries of those clauses.
