@@ -1,4 +1,4 @@
-## Amplifi Dissertation
+## Business Analytics MSc Amplifi Dissertation
 
 ### Abstract
 
